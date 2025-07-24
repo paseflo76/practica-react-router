@@ -2,7 +2,7 @@ import { Routes, Route } from 'react-router-dom'
 import './app.css'
 
 import NotFound from './pages/NotFound'
-
+import Header from './components/Header'
 import Home from './pages/home'
 import About from './pages/about'
 import Contact from './pages/contact'
